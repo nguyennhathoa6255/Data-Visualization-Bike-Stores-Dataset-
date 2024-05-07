@@ -1,4 +1,4 @@
-# Bike Stores Visualization Project
+# Data Visualization (Bike Stores Dataset)
 [Dashboard](https://public.tableau.com/views/BikeStoresDashboard_16973664425040/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 ## The Summary
 ### Conclusion
