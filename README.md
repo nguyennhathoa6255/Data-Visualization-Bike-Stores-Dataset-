@@ -6,5 +6,5 @@ Bike Stores demonstrate a growing revenue trend over the years. The generated ch
 ### Challenges
 The project encountered challenges in data collection and preparation, handling large datasets, selecting suitable charts, and designing an effective dashboard.
 ### Techniques
-- SMSS (SQL Server Management Studio) was used to query and export the dataset by writing SQL queries
+- Microsoft SQL Server was used to query and export the dataset by writing SQL queries
 - Tableau, a powerful data visualization tool, was employed to create interactive and informative charts based on the exported dataset.
