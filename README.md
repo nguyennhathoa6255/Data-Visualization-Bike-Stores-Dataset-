@@ -22,7 +22,7 @@ Use SQL Server to execute the .sql files in the folder.
 
 The result is the BikeStores database.
 
-![alt text](image.png)
+![alt text](image/image.png)
 
 Use SQL to create a query to retrieve data from the Main.sql file.
 
@@ -70,11 +70,11 @@ GROUP BY
 
 Results:
 
-![alt text](image-1.png)
+![alt text](image/image-1.png)
 
 Create an Excel file named 'BikeStores'. Copy the data from the query result in Main.sql and paste it into the BikeStores file. Verify that the data columns have been cleaned.
 
-![alt text](image-2.png)
+![alt text](image/image-2.png)
 
 #### 2. Data Analysis and Visualization
 
@@ -82,7 +82,7 @@ Import the BikeStores.xlsx Excel file into Tableau.
 
 Create worksheets with charts, adjust the formatting to display chart names and monetary values in US dollars
 
-![alt text](image-3.png)
+![alt text](image/image-3.png)
 
 Create a dashboard and add the worksheets to it, linking filters to the charts.
 
